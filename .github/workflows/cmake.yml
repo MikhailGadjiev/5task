@@ -21,7 +21,6 @@ jobs:
     
     - uses: actions/checkout@v2
       with:
-        repository: 'https://akhcheck.ru/git/TechProgTemplates.git'
-        ref: 'origin/task5'
+        ref: 'task5'
 
       
